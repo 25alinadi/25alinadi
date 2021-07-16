@@ -11,6 +11,7 @@ I do not get tired of writing code and solving challenges and creating and learn
 - Reactjs, Vuejs, javascript, jquery, PWA
 - Android (java, kotlin), flutter
 - wordpress ,create plugin and theme for wordpress
+- ...
 
 
 [mywebsite](http://www.alinadi.com) | [instagram](https://www.instagram.com/nbali.dev) | [Linkedin](http://www.linkedin.com/in/ali-nadi-89517a101) | 
